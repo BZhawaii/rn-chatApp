@@ -5,12 +5,12 @@ import {
 } from 'react-native';
 
 
-export default class Home extends React.Component {
+export default class Chat extends React.Component {
     render() {
         return (
             <View>
                 <Text>
-                    Hello World
+                    Hello Chat
                 </Text>
             </View>
 
@@ -23,3 +23,4 @@ export default class Home extends React.Component {
 
 
 }
+
