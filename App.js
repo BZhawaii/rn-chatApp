@@ -21,7 +21,6 @@ export default class App extends Component<Props> {
           {/* The above Platform function sets the value for ios and android depending on what's being shown  */}
           <Scene key='home' component={ Home } title='Home' />
           <Scene key='chat' component={ Chat } title='Chat' />
-
         </Scene>
       </Router>
 
